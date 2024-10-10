@@ -2,13 +2,13 @@
 Unified Mentor Internship Projects
 
 Project 1: Animal Image Classification
+
 Project 2: Forest Cover Type Prediction
 
-Here's the detailed documentation for the **Image Classification of Animals** project, which you can include in your `README.md` file:
 
 ---
 
-# Image Classification of Animals
+# Project 1: Image Classification of Animals
 
 ## Project Overview
 This project involves building a deep learning model to classify images of animals into one of 15 distinct categories. The dataset consists of images for each class, and the model is designed to identify the correct animal based on the input image. Techniques such as Convolutional Neural Networks (CNN) and Transfer Learning are utilized to build an efficient and accurate classifier.
@@ -239,13 +239,14 @@ Feel free to fork this repository and contribute by creating pull requests!
 
 ---
 
-This should be ready to use in your GitHub repository. Let me know if you'd like to adjust or add anything!
 
-Here's a detailed project documentation you can use for your `README.md` file for the **Forest Cover Type Prediction** project. You can copy and paste it directly into your GitHub repository's README.
+
+
+
 
 ---
 
-# Forest Cover Type Prediction
+# Project 2: Forest Cover Type Prediction
 
 ### Objective
 The objective of this project is to build a machine learning model that predicts the type of forest cover in a given area using various environmental features. The dataset used for this project is derived from the Roosevelt National Forest in northern Colorado, provided by the forest department.
@@ -414,4 +415,3 @@ The Random Forest model achieved an accuracy of **XX.XX%** on the test set.
 
 ---
 
-Feel free to modify this documentation as per your specific project details! Let me know if you'd like to add or modify any section.
