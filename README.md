@@ -411,7 +411,7 @@ The Random Forest model achieved an accuracy of **XX.XX%** on the test set.
 ---
 
 ## Contributors
-- **Saurabh Yadav** - [GitHub Profile]([https://github.com/your_username](https://github.com/SaurabhIndi))
+- **Saurabh Yadav** - [GitHub Profile](https://github.com/SaurabhIndi)
 
 ---
 
