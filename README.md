@@ -1,3 +1,7 @@
+
+## !! EXCEPT ASL & ANIMAL CLASSIFICATION, ALL MODELS ARE RUNNING SUCCESSFULLY, THANK YOU FOR READING !!
+
+
 # UM-Projects
 Unified Mentor Internship Projects
 
